@@ -7,4 +7,4 @@ collections of python projects and practice programs
 -password_manager
 -rock_papper_scissor
 
-created while learning python and computer networks
+created while learning python and computer network
